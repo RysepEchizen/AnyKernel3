@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-#kernel.string=RyzenX By 花 | Nadine's
+#kernel.string=RyzenX[TEST] By 花 | Nadine's
 do.devicecheck=1
 do.modules=0
 do.systemless=1
