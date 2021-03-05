@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-#kernel.string=AsepMlnaa By 花 | Nadine's
+#kernel.string=RyzenX By 花 | Nadine's
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=onc
-device.name2=onclite
+device.name1=citrus
+device.name2=
 device.name3=
 device.name4=
 device.name5=
